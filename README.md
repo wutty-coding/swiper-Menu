@@ -4,7 +4,6 @@ https://github.com/devmode-on/Card-Slider
 
 
 **************รหัส GS************************
-เคดิต อ.อภิวัฒน์ วงษ์กันหา
 function setIMG() {
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('menu')
   var folder = DriveApp.getFolderById('xxxxx')
